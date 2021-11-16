@@ -1,2 +1,2 @@
 # Se_project
-Morse code translator
+Test tool for Morse encryption
